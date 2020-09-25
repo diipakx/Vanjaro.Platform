@@ -169,7 +169,7 @@
 .dropdownselect .dropdownOption {
     position: relative;
     width: 100%;
-    padding-right: 32px;
+    padding-right: 33px;
 }
     .dropdownselect .dropdownOption .units{
         right:16px;
@@ -280,8 +280,9 @@
 .grptitle .fa-chevron-down:before {
     position: absolute;
     top: 2px;
-    right: 32px;
+    right: 35px;
     color: #999;
+    font-size: 10px;
 }
 
 .mainblocks i {
@@ -327,6 +328,8 @@
 /*.firstblock .input-wrapper input[type="range"] {
     margin-left: 14px;
 }*/
+
+
 
 .subtMenu .optioncontrol .input-wrapper input[type="range"] {
     margin-left: -20px;
@@ -474,7 +477,7 @@
     }
 
 .PvNotAvailable {
-    cursor: pointer;
+    /*cursor: pointer;*/
     position: absolute;
     right: 8px;
     font-size: 8px;
@@ -491,7 +494,7 @@
 }
 
 .subtMenu .dropdownselect .dropdownOption {
-    padding-right: 15px;
+    padding-right: 29px;
 }
 
 .vj-ux-manager ul.role-group {
